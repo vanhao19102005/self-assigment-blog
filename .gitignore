@@ -1,14 +1,9 @@
 # See https://help.github.com/articles/ignoring-files/ for more about ignoring files.
 
 components/
-content/
 layout/
 lib/
 pages/
-public/
-styles/
-data.js
-generate-md.js
 
 # dependencies
 /node_modules
